@@ -1,4 +1,2 @@
-LINHA 1
-escrito no computador
-E também
-Escrito lá no github.
+meu código veio aqui.
+
